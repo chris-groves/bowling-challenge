@@ -2,6 +2,15 @@
 Bowling Challenge
 =================
 
+## USER STORIES
+--------
+### USER STORY 1: COUNT OF PINS KNOCKED DOWN IN FIRST ROLL
+As a bowling player
+So I can keep a track of my game
+I want to see how many pins I have knocked down in my first roll
+
+
+
 
 * Challenge time: rest of the day and weekend.
 * Feel free to use google, your notes, books, etc. but work on your own
