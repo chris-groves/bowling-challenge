@@ -4,12 +4,25 @@ Bowling Challenge
 
 ## USER STORIES
 --------
-### USER STORY 1: COUNT OF PINS KNOCKED DOWN IN FIRST ROLL
+### USER STORY 1: COUNT OF PINS KNOCKED DOWN IN LATEST ROLL
 As a bowling player
 So I can keep a track of my game
-I want to see how many pins I have knocked down in my first roll
+I want to see how many pins I have knocked down in my latest roll
 
+### USER STORY 2: RECORD NUMBER OF PINS KNOCKED DOWN IN FIRST ROLL
+As a bowling player
+So I can keep a track of my game
+I want to see how many pins I have knocked down in my first roll in the first frame
 
+### USER STORY 3: RECORD NUMBER OF PINS KNOCKED DOWN IN FIRST FRAME
+As a bowling player
+So I can keep a track of my game
+I want to see how many pins I have knocked down in my first frame
+
+### USER STORY 4: RECORD TOTAL SCORE FOR FIRST FRAME
+As a bowling player
+So I can keep a track of my score
+I want to see my total score for the first frame
 
 
 * Challenge time: rest of the day and weekend.
